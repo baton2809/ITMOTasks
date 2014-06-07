@@ -1,0 +1,11 @@
+isEmpty
+add 5
+clear
+add 9
+add 2 
+size
+iterator
+remove 0
+isEmpty
+get 0
+size

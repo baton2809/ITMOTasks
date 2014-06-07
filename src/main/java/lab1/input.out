@@ -1,0 +1,10 @@
+Whether the ArrayList is Empty: true
+Element was appended into ArrayList: 5
+Element was appended into ArrayList: 9
+Element was appended into ArrayList: 2
+The size of ArrayList made/composed: 3
+The For-Each Loop displayed all elements: 5 9 2 
+Was deleted the element: 5
+Whether the ArrayList is Empty: false
+That element was gazed in ArrayList: 9
+The size of ArrayList made/composed: 2
